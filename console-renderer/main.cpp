@@ -6,6 +6,11 @@ int main() {
 
 	ConsoleRenderer Console;
 
-	Console.setSize();
+	
+
+	while (1) 
+	{
+		
+	}
 
 }
